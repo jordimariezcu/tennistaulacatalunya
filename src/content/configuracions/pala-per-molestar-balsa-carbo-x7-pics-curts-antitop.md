@@ -1,5 +1,6 @@
 ---
 title: "Pala per molestar: Balsa Carbo X7 + pics curts + antitop"
+description: "Configuració disruptiva per 142 euros: Butterfly Balsa Carbo X7 amb pics curts Firestorm al drive i antitop Super Anti al revés, una pala experimental per desconcertar rivals amb efectes imprevisibles."
 pubDate: "2025-09-16"
 updatedDate: "2025-09-18"
 category: "configuracions"

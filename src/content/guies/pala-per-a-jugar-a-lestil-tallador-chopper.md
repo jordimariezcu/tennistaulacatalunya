@@ -1,5 +1,6 @@
 ---
 title: "Pala per a jugar a l'estil tallador (chopper)"
+description: "El tallador o chopper retorna atacs amb talls profunds de backspin des de mitja o llarga distància. Quines fustes OFF- o ALLROUND DEFENSIVE i gomes de pics llargs o llises recomanem per a aquest estil."
 pubDate: "2025-09-09"
 updatedDate: "2025-09-14"
 category: "guies"

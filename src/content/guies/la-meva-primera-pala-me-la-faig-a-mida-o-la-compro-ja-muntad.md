@@ -1,5 +1,6 @@
 ---
 title: "La meva primera pala: me la faig a mida o la compro ja muntada?"
+description: "Pales pre-muntades o a mida: descobreix per què val la pena invertir en una pala de qualitat des del principi, i com les botigues especialitzades poden ajudar-te a configurar la teva primera pala."
 pubDate: "2025-09-10"
 updatedDate: "2025-09-14"
 category: "guies"

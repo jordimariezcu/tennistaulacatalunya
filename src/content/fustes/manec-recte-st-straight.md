@@ -1,5 +1,6 @@
 ---
 title: "Mànec recte (ST – Straight) "
+description: "El mànec recte o straight té una forma cilíndrica uniforme que facilita girar ràpidament la pala, ideal per a jugadors defensius o mixtos que alternen gomes amb freqüència durant el partit."
 pubDate: "2025-08-07"
 updatedDate: "2025-09-02"
 category: "fustes"

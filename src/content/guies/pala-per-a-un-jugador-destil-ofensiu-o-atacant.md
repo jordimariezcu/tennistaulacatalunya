@@ -1,5 +1,6 @@
 ---
 title: "Pala per a un jugador d'estil ofensiu o atacant"
+description: "El jugador ofensiu domina el punt amb topspins potents i ràpids. Quines fustes OFF o OFF+ i gomes llises ofensives d'alt grip i velocitat necessites per atacar amb pressió constant des del servei."
 pubDate: "2025-09-07"
 updatedDate: "2025-09-14"
 category: "guies"

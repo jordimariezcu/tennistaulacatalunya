@@ -1,5 +1,6 @@
 ---
 title: "Fusta OFF (Offensive estàndard) "
+description: "Les fustes OFF ofereixen alta velocitat per a jugadors ofensius experimentats que busquen punts guanyadors amb topspins potents i loops des de mitja distància o prop de la taula."
 pubDate: "2025-08-04"
 updatedDate: "2025-09-02"
 category: "fustes"

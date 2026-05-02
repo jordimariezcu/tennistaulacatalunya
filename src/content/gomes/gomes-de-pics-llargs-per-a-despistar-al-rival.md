@@ -1,5 +1,6 @@
 ---
 title: "Gomes de pics llargs, per a despistar al rival"
+description: "Les gomes de pics llargs generen devolucions imprevisibles invertint l'efecte de la pilota, molt populars entre jugadors defensius que volen trencar el ritme del contrari amb talls i bloquejos estranys."
 pubDate: "2025-08-16"
 updatedDate: "2025-09-02"
 category: "gomes"

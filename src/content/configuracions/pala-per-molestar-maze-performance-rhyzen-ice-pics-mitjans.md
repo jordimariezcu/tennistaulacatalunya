@@ -1,5 +1,6 @@
 ---
 title: "Pala per molestar: Maze Performance + Rhyzen Ice + pics mitjans"
+description: "Configuració per molestar per 165 euros: Butterfly Maze Performance amb Joola Rhyzen Ice al drive i pics mitjans Power Pipes al revés, ideal per alternar atac i tocs estranys amb efecte catapulta sorprenent."
 pubDate: "2025-08-18"
 updatedDate: "2025-09-18"
 category: "configuracions"

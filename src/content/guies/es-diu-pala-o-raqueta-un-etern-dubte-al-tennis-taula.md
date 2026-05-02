@@ -1,5 +1,6 @@
 ---
 title: "Es diu pala o raqueta? Un etern dubte al tennis taula"
+description: "Pala o raqueta al tennis taula? La Federació Internacional utilitza el terme raqueta, però al dia a dia tothom diu pala. Tots dos termes són vàlids i sinònims en aquest esport."
 pubDate: "2025-09-14"
 updatedDate: "2025-09-14"
 category: "guies"

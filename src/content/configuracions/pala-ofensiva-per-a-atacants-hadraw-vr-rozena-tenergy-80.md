@@ -1,5 +1,6 @@
 ---
 title: "Pala ofensiva per a atacants: Hadraw VR + Rozena + Tenergy 80 "
+description: "Configuració ofensiva per 194 euros: fusta Butterfly Hadraw VR OFF amb Tenergy 80 al drive i Rozena al revés, una combinació equilibrada de velocitat i control per a jugadors que gaudeixen atacant."
 pubDate: "2025-08-12"
 updatedDate: "2025-09-02"
 category: "configuracions"

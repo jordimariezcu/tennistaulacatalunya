@@ -1,5 +1,6 @@
 ---
 title: "Fusta DEF - Defensa"
+description: "Les fustes DEF són les més lentes del mercat, dissenyades per a jugadors defensius que prioritzen el control màxim, la col·locació precisa i l'ús de pics llargs o antitop."
 pubDate: "2025-08-03"
 updatedDate: "2025-09-02"
 category: "fustes"

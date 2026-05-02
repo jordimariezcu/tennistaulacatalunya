@@ -1,5 +1,6 @@
 ---
 title: "El CTT Olot - Capdevila Permar es corona, per primer cop, com a campió de la Copa del Rei a Tarragona"
+description: "El CTT Olot - Capdevila Permar guanya per primera vegada la Copa del Rei de tennis taula 2026 a Tarragona, imposant-se al Leka Enea Irún per 3-1 en una final molt disputada a la LXXXI edició del torneig."
 pubDate: "2026-02-21"
 updatedDate: "2026-02-21"
 category: "noticies"

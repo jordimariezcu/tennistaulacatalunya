@@ -1,6 +1,7 @@
 ---
-title: "Què vol dir “cho”, “chole” o “cho-lei”, al tennis taula? "
-pubDate: "2025-08-31"
+title: “Què vol dir “cho”, “chole” o “cho-lei”, al tennis taula? “
+description: “Cho, chole o cho-lei són crits d'ànim i celebració habituals al tennis taula, probablement derivats del xinès hǎo, popularitzats per jugadors asiàtics i estesos arreu del món competitiu.”
+pubDate: “2025-08-31”
 updatedDate: "2025-09-10"
 category: "guies"
 tags: ["Dubtes bàsics"]

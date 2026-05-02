@@ -6,9 +6,14 @@ const categoryLabels: Record<string, string> = {
   fustes: 'Fustes', configuracions: 'Configuracions', guies: 'Guies',
   gomes: 'Gomes', noticies: 'Notícies'
 };
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const ogImage = 'https://www.tennistaulacatalunya.com/og-image.png';
 const schema = {
   "@context": "https://schema.org", "@type": "Article",
   "headline": title, "description": description || '',
+  "url": canonicalUrl,
+  "mainEntityOfPage": { "@type": "WebPage", "@id": canonicalUrl },
+  "image": { "@type": "ImageObject", "url": ogImage, "width": 1200, "height": 630 },
   "datePublished": pubDate, "dateModified": updatedDate || pubDate,
   "author": { "@type": "Organization", "name": "Tennis Taula Catalunya" },
   "publisher": { "@type": "Organization", "name": "Tennis Taula Catalunya", "url": "https://www.tennistaulacatalunya.com" },

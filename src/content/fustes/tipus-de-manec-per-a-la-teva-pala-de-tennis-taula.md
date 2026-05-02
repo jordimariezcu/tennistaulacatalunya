@@ -1,5 +1,6 @@
 ---
 title: "Tipus de mànec per a la teva pala de tennis taula"
+description: "Descobreix les diferències entre els mànecs AN, FL, ST, penhold xinès i japonès per escollir el que millor s'adapta a la teva mà i estil de joc al tennis taula."
 pubDate: "2025-09-02"
 updatedDate: "2025-09-02"
 category: "fustes"

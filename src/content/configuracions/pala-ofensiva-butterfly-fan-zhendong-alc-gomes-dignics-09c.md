@@ -1,5 +1,6 @@
 ---
 title: "Pala ofensiva: Butterfly Fan Zhendong ALC + gomes Dignics 09C"
+description: "Configuració professional per 340 euros: fusta Butterfly Fan Zhendong ALC amb Dignics 09C al drive i Dignics 05 al revés, una pala d'alt rendiment per a jugadors experts que busquen velocitat i precisió màximes."
 pubDate: "2025-08-20"
 updatedDate: "2025-09-18"
 category: "configuracions"

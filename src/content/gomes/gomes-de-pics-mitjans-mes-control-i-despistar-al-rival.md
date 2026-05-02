@@ -1,5 +1,6 @@
 ---
 title: "Gomes de pics mitjans, més control i despistar al rival"
+description: "Les gomes de pics mitjans combinen control i efecte disruptiu, més fàcils de dominar que els pics llargs i ideals per a un joc mixt que alterna bloquejos, talls i cops actius desconcertants."
 pubDate: "2025-08-17"
 updatedDate: "2025-09-02"
 category: "gomes"

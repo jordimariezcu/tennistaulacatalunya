@@ -1,5 +1,6 @@
 ---
 title: "Pala per a jugador de control"
+description: "El jugador de control basa el seu joc en la precisió i la consistència. Quina fusta ALL o ALL+ i quines gomes de control triar per dominar el punt amb col·locació i paciència estratègica."
 pubDate: "2025-09-06"
 updatedDate: "2025-09-14"
 category: "guies"

@@ -1,5 +1,6 @@
 ---
 title: "Com pots muntar una pala de tennis taula?"
+description: "Guia pas a pas per muntar la teva pala de tennis taula: des de treure les gomes velles, aplicar la cola i enganxar les noves gomes fins a retallar-les i posar la cinta cantonera."
 pubDate: "2025-09-28"
 updatedDate: "2025-09-28"
 category: "guies"

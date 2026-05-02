@@ -1,5 +1,6 @@
 ---
 title: "Com triar la teva pala de tennis de taula: la clau per fotre-li canya a la pilota"
+description: "Sis consells pràctics per escollir la pala de tennis taula adequada al teu nivell i estil: fusta, gomes, mànec, carboni i com evitar errors freqüents al comprar el teu primer equipament."
 pubDate: "2025-09-11"
 updatedDate: "2025-09-14"
 category: "guies"

@@ -1,5 +1,6 @@
 ---
 title: "Gomes antitop (antispin)"
+description: "Les gomes antitop neutralitzen l'efecte rival gràcies a la seva superfície llisa de baixa fricció, retornant pilotes sense gir que confonen l'adversari i faciliten el control defensiu."
 pubDate: "2025-08-14"
 updatedDate: "2025-09-02"
 category: "gomes"

@@ -1,5 +1,6 @@
 ---
 title: "Fusta OFF- (Offensive menys) "
+description: "Les fustes OFF- combinen bona velocitat i control, ideals per a jugadors ofensius en formació que ataquen amb topspin controlat sense renunciar a la precisió ni al bloqueig puntual."
 pubDate: "2025-08-05"
 updatedDate: "2025-09-02"
 category: "fustes"

@@ -1,5 +1,6 @@
 ---
 title: "Torneig Internacional de Veterans de Tennis Taula - Salou"
+description: "Del 29 d'octubre al 2 de novembre de 2025 a Salou, Tarragona: torneig internacional de tennis taula per a veterans majors de 40 anys, amb categories per edats i modalitats d'individuals, dobles i dobles mixtes."
 pubDate: "2025-09-03"
 updatedDate: "2025-09-04"
 category: "noticies"

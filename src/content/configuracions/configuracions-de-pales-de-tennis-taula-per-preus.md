@@ -1,5 +1,6 @@
 ---
 title: "Configuracions de pales de tennis taula, per preus"
+description: "Totes les configuracions de pales de tennis taula ordenades per preu, des de 88 euros fins a 340 euros, per estils de control, defensiu, per molestar i ofensiu per triar la teva combinació ideal."
 pubDate: "2025-09-18"
 updatedDate: "2025-09-18"
 category: "configuracions"

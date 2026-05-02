@@ -1,5 +1,6 @@
 ---
 title: "Gomes de pics curts, una ajuda ofensiva"
+description: "Les gomes de pics curts redueixen la sensibilitat a l'efecte rival i permeten atacar directament amb cops ràpids i plans, una opció ofensiva eficaç per bloquejar topspins amb comoditat."
 pubDate: "2025-08-15"
 updatedDate: "2025-09-02"
 category: "gomes"

@@ -1,5 +1,6 @@
 ---
 title: "Pala per molestar al rival (disturbing style)"
+description: "L'estil disturbing combina gomes especials com antitop o pics per generar efectes imprevisibles i desconcertar el rival. Quines fustes ALL i gomes irregulars s'adapten millor a aquest joc no convencional."
 pubDate: "2025-09-05"
 updatedDate: "2025-09-18"
 category: "guies"

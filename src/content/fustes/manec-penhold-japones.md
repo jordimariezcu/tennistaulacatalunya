@@ -1,5 +1,6 @@
 ---
 title: "Mànec Penhold japonès"
+description: "El mànec penhold japonès incorpora una peça encoixinada que aporta estabilitat i comoditat extra respecte al xinès, afavorint una agafada ferma i cops precisos per a jugadors d'estil asiàtic."
 pubDate: "2025-08-11"
 updatedDate: "2025-09-02"
 category: "fustes"

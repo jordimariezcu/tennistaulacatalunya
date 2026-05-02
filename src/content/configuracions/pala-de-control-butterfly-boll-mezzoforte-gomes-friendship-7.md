@@ -1,5 +1,6 @@
 ---
 title: "Pala de control: Butterfly Boll Mezzoforte + gomes Friendship 729 FX super soft"
+description: "Configuració de pala de control per 88 euros: fusta Butterfly Boll Mezzoforte ALL+ amb gomes Friendship 729 FX Super Soft, una combinació lleugera i equilibrada ideal per a principiants que volen progresar."
 pubDate: "2025-08-19"
 updatedDate: "2025-09-18"
 category: "configuracions"

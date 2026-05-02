@@ -1,5 +1,6 @@
 ---
 title: "Fusta OFF+ (Offensive Plus) "
+description: "Les fustes OFF+ són les més ràpides, amb capes de carboni o materials sintètics, pensades per a competidors d'alt nivell que busquen potència màxima i velocitat explosiva en cada cop."
 pubDate: "2025-08-06"
 updatedDate: "2025-09-02"
 category: "fustes"

@@ -1,5 +1,6 @@
 ---
 title: "Fusta ALL+ (Allround Plus)"
+description: "La fusta ALL+ ofereix un extra de velocitat respecte a l'ALL estàndard sense perdre control, ideal per a jugadors de nivell intermig que busquen progressar cap a un joc ofensiu controlat."
 pubDate: "2025-08-02"
 updatedDate: "2025-09-02"
 category: "fustes"

@@ -1,5 +1,6 @@
 ---
 title: "Imatges dels partits de Catalunya contra Letònia - 19/09/2025"
+description: "Galeria fotogràfica dels partits del 19 de setembre de 2025 entre Catalunya i Letònia al Club Ganxets de Reus, amb victòria catalana per 4-1 amb punts de Masip, Riera, Moscoso i González."
 pubDate: "2025-09-19"
 updatedDate: "2025-09-19"
 category: "noticies"

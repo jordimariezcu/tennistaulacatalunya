@@ -1,5 +1,6 @@
 ---
 title: "Catalunya - Letònia, el 19 de setembre a Reus"
+description: "La selecció catalana de tennis taula disputarà un encontre amistós contra Letònia el 19 de setembre a les 18h al CTT Ganxets de Reus, en el marc de la V Setmana Catalana de l'Esport organitzada per la UFEC."
 pubDate: "2025-09-04"
 updatedDate: "2025-09-04"
 category: "noticies"

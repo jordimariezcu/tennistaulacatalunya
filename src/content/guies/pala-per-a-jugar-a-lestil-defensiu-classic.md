@@ -1,5 +1,6 @@
 ---
 title: "Pala per a jugar a l'estil defensiu clàssic"
+description: "L'estil defensiu clàssic es basa en bloquejos, talls i control total. Descobreix quines fustes DEF o ALLROUND i gomes de pics llargs o llises lentes s'adapten millor a aquest joc pacient."
 pubDate: "2025-09-08"
 updatedDate: "2025-09-14"
 category: "guies"

@@ -1,5 +1,6 @@
 ---
 title: "Pala ofensiva d'Elvira Rad: Butterfly Timo Boll ALC + Dignics 05"
+description: "La pala d'Elvira Rad, medallista al Campionat d'Espanya Sub21 2025: Butterfly Timo Boll ALC amb gomes Dignics 05, una combinació de 330 euros per a un joc ofensiu professional d'alta velocitat i efecte."
 pubDate: "2025-08-21"
 updatedDate: "2025-09-18"
 category: "configuracions"

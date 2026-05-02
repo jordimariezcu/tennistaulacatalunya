@@ -1,5 +1,6 @@
 ---
 title: "Pala ofensiva de Renata Shypsha: Vyzaryz Freeze HDR + gomes Dynaryz ACC"
+description: "La pala de Renata Shypsha, quadruple campiona d'Espanya infantil 2025: Joola Vyzaryz Freeze HDR amb gomes Dynaryz ACC, una configuració ofensiva de 316 euros amb gran velocitat i precisió."
 pubDate: "2025-08-22"
 updatedDate: "2025-09-18"
 category: "configuracions"

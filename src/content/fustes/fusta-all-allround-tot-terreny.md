@@ -1,5 +1,6 @@
 ---
 title: "Fusta ALL – Allround (tot terreny) "
+description: "Les fustes ALL combinen velocitat mitjana i molt bon control, perfectes per a principiants i jugadors que alternen atac i defensa amb varietat d'efectes i estabilitat."
 pubDate: "2025-08-01"
 updatedDate: "2025-09-02"
 category: "fustes"

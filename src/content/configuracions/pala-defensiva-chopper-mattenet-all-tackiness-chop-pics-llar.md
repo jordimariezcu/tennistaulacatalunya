@@ -1,5 +1,6 @@
 ---
 title: "Pala defensiva (chopper): Mattenet ALL + Tackiness chop + pics llargs "
+description: "Configuració defensiva per 110 euros: fusta Joola Mattenet ALL+ amb goma Butterfly Tackiness Chop al drive i pics llargs Victas Curl P1V al revés, perfecta per a talladors que volen desestabilitzar el rival."
 pubDate: "2025-09-17"
 updatedDate: "2025-09-17"
 category: "configuracions"

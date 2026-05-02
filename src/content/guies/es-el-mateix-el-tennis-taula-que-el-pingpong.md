@@ -1,5 +1,6 @@
 ---
 title: "És el mateix el tennis taula que el pingpong?"
+description: "Tennis taula i ping-pong són el mateix esport, però ping-pong va ser un nom comercial dels inicis. Avui la Federació Internacional usa tennis taula, mentre que ping-pong evoca lleure i diversió."
 pubDate: "2025-09-01"
 updatedDate: "2025-09-10"
 category: "guies"
