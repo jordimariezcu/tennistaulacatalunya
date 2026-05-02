@@ -1,0 +1,103 @@
+---
+import '../styles/global.css';
+const { title, description, type = 'website', pubDate, updatedDate, category } = Astro.props;
+const siteTitle = 'Tennis Taula Catalunya';
+const siteDesc = 'Tot sobre el tennis taula: fustes, gomes, configuracions i notícies de Catalunya.';
+const fullTitle = title ? `${title} · ${siteTitle}` : siteTitle;
+const metaDesc = description || siteDesc;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+---
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={metaDesc} />
+  <link rel="canonical" href={canonicalURL} />
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={metaDesc} />
+  <meta property="og:type" content={type} />
+  <meta property="og:url" content={canonicalURL} />
+  <meta property="og:site_name" content={siteTitle} />
+  <meta property="og:locale" content="ca_ES" />
+  {type === 'article' && pubDate && <meta property="article:published_time" content={pubDate} />}
+  {type === 'article' && updatedDate && <meta property="article:modified_time" content={updatedDate} />}
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="sitemap" href="/sitemap-index.xml" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": siteTitle,
+    "url": "https://www.tennistaulacatalunya.com",
+    "description": siteDesc,
+    "inLanguage": "ca"
+  })} />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="/" class="logo">
+        <span class="logo-main">Tennis Taula</span>
+        <span class="logo-accent">Catalunya</span>
+      </a>
+      <nav class="main-nav">
+        <a href="/fustes/">Fustes</a>
+        <a href="/gomes/">Gomes</a>
+        <a href="/configuracions/">Configuracions</a>
+        <a href="/guies/">Guies</a>
+        <a href="/noticies/">Notícies</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Menú" id="navToggle">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+  <main><slot /></main>
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <span class="logo-main">Tennis Taula</span><span class="logo-accent"> Catalunya</span>
+        <p>Tot sobre el tennis taula a Catalunya</p>
+      </div>
+      <nav class="footer-nav">
+        <a href="/fustes/">Fustes</a>
+        <a href="/gomes/">Gomes</a>
+        <a href="/configuracions/">Configuracions</a>
+        <a href="/guies/">Guies</a>
+        <a href="/noticies/">Notícies</a>
+      </nav>
+      <p class="footer-copy">© {new Date().getFullYear()} Tennis Taula Catalunya</p>
+    </div>
+  </footer>
+  <script>
+    const toggle = document.getElementById('navToggle');
+    const nav = document.querySelector('.main-nav');
+    toggle?.addEventListener('click', () => nav?.classList.toggle('open'));
+  </script>
+</body>
+</html>
+<style>
+.site-header { position: sticky; top: 0; z-index: 100; background: rgba(248,250,249,0.92); backdrop-filter: blur(12px); border-bottom: 1px solid var(--border); }
+.header-inner { display: flex; align-items: center; justify-content: space-between; height: 60px; gap: 24px; }
+.logo { font-family: var(--font-display); font-size: 1.2rem; font-weight: 700; letter-spacing: -0.02em; flex-shrink: 0; }
+.logo-main { color: var(--text); } .logo-accent { color: var(--accent); margin-left: 4px; }
+.main-nav { display: flex; gap: 4px; }
+.main-nav a { font-size: 0.85rem; color: var(--text-secondary); padding: 6px 10px; border-radius: var(--radius); transition: all 0.15s; }
+.main-nav a:hover { color: var(--text); background: var(--bg-secondary); }
+.nav-toggle { display: none; flex-direction: column; gap: 5px; background: none; border: none; cursor: pointer; padding: 4px; }
+.nav-toggle span { display: block; width: 22px; height: 2px; background: var(--text); border-radius: 2px; }
+.site-footer { margin-top: 80px; border-top: 1px solid var(--border); background: var(--bg-secondary); }
+.footer-inner { padding: 48px 24px 32px; display: flex; flex-direction: column; gap: 24px; align-items: center; text-align: center; }
+.footer-brand p { font-size: 0.85rem; color: var(--text-muted); margin-top: 4px; }
+.footer-nav { display: flex; gap: 16px; flex-wrap: wrap; justify-content: center; }
+.footer-nav a { font-size: 0.85rem; color: var(--text-secondary); }
+.footer-nav a:hover { color: var(--accent); }
+.footer-copy { font-size: 0.8rem; color: var(--text-muted); }
+@media (max-width: 768px) {
+  .nav-toggle { display: flex; }
+  .main-nav { display: none; position: absolute; top: 61px; left: 0; right: 0; background: var(--bg); border-bottom: 1px solid var(--border); padding: 16px 24px; flex-direction: column; gap: 4px; }
+  .main-nav.open { display: flex; }
+  .main-nav a { padding: 10px 12px; font-size: 0.95rem; }
+}
+</style>

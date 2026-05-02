@@ -1,0 +1,39 @@
+---
+title: "Pala ofensiva per a atacants: Hadraw VR + Rozena + Tenergy 80 "
+pubDate: "2025-08-12"
+updatedDate: "2025-09-02"
+category: "configuracions"
+tags: ["Configuracions de pales"]
+draft: false
+---
+
+[
+
+![Butterfly Hadraw VR + goma Rozena](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBjDnc5YVJp5mJId9qu8e5Kk7tJ-KP0xTEV6o0Ob_9aovvLVLFToE_FBG3pCiRYJWYSC-0SIN13TuSI7z9Slu_JHIU0awX2YAdHrGq-Eub3QSxPwtjIYkE2aPugthRf89pksSK_I8yyj5X7tsbhZXQlkiwqZ4zgICyMyHuC9h82t9kH1P7OMI2WEThVe1W/w400-h300/hadraw%20vr.jpg)
+
+]()
+|  |
+| --- |
+| Butterfly Hadraw VR + goma Rozena |
+
+Aquesta és una configuració pròpia de pala ofensiva, per als qui ens agrada atacar en lloc d’esperar que ens ataquin. Evidentment, amb gomes llises.
+
+Pressupost aproximat: 94 € + 40 € + 60 € = 194 euros
+
+Digueu-me retro, però jugo amb la fusta Butterfly Hadraw VR, ara ja retirada del mercat en aparèixer-ne una nova versió. Es tracta d’una fusta de tipus OFF.
+És una pala amb 5 làmines de fusta, pensada per a un joc ofensiu, però controlat i precís.
+
+Al drive jugo amb una Butterfly Tenergy 80, una goma molt bona però una mica cara. És una goma força ràpida, que no és fàcil de controlar, amb un gruix mitjà d’1,9 mm.
+
+Al revés porto la versió “barata”, una Butterfly Rozena d’1,7 mm. També és una goma de tipus ràpid, però ofereix una mica més de control. Si vols atacar ràpid de revés, o amb topspin, et donarà molta precisió i velocitat.
+
+És una combinació que em sembla molt proporcionada. Té un pes molt correcte i compensat. L’únic inconvenient: la vaig comprar de segona mà, i venia amb mànec ST (completament recte). Em falla una mica, ja que amb la suor rellisca. Hauria preferit un mànec còncau (FL), però és el que vaig trobar.
+
+[
+
+![Tenergy 80](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjNYNpcWxwp9LCgYTT59cf7NCciYYZiZ0nC4WLyELHJyIY3w-SKRVIJ0wMDJQzOB6anvRXI2z0LsvtC7Hcattdve0fXT1rz02lWs2FGTCMc9w30NAdyYeNnjagS86vGqJCMU7_S1BBVxF3_26VhRaXBjaLFzvweXSiwoEgu6a7EP1KyiHnd1FS9P7HuUHJ/w400-h300/tenergy%2080.jpg)
+
+]()
+|  |
+| --- |
+| Tenergy 80 |

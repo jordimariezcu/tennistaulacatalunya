@@ -1,0 +1,54 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const collections = ['fustes','configuracions','guies','gomes','noticies'] as const;
+  const categoryMeta: Record<string, { label: string; description: string }> = {
+    fustes: { label: 'Fustes', description: 'Anàlisi de fustes de tennis taula: ofensives, defensives i allround per a tots els nivells.' },
+    configuracions: { label: 'Configuracions de Pales', description: 'Configuracions de pales completes per a jugadors professionals i amateur de tennis taula.' },
+    guies: { label: 'Guies', description: 'Guies completes per entendre el tennis taula: materials, regles i fonaments.' },
+    gomes: { label: 'Gomes', description: 'Ressenyes i anàlisis de gomes de tennis taula: llises, pics, antispin i més.' },
+    noticies: { label: 'Notícies', description: 'Notícies del tennis taula a Catalunya: tornejos, competicions i resultats.' },
+  };
+  return await Promise.all(
+    collections.map(async (col) => {
+      const posts = await getCollection(col);
+      return {
+        params: { category: col },
+        props: {
+          posts: posts.filter((p: any) => !p.data.draft).sort((a: any,b: any) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime()),
+          collection: col,
+          meta: categoryMeta[col]
+        }
+      };
+    })
+  );
+}
+const { posts, collection, meta } = Astro.props;
+---
+<BaseLayout title={meta.label} description={meta.description}>
+  <div class="cat-page">
+    <div class="container">
+      <div class="cat-header">
+        <a href="/" class="breadcrumb">Inici</a><span> / </span><span>{meta.label}</span>
+      </div>
+      <h1 class="cat-title">{meta.label}</h1>
+      <p class="cat-desc">{meta.description}</p>
+      <div class="posts-count">{posts.length} articles</div>
+      <div class="posts-grid">
+        {posts.map((post: any) => <PostCard post={post} collection={collection} />)}
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+<style>
+.cat-page { padding: 40px 0 80px; }
+.cat-header { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 24px; }
+.cat-header a:hover { color: var(--accent); }
+.cat-title { font-size: clamp(2rem, 4vw, 3rem); letter-spacing: -0.03em; margin-bottom: 12px; }
+.cat-desc { font-size: 1rem; color: var(--text-secondary); max-width: 560px; margin-bottom: 8px; }
+.posts-count { font-size: 0.82rem; color: var(--text-muted); margin-bottom: 40px; }
+.posts-grid { display: grid; gap: 10px; }
+</style>
