@@ -8,5 +8,13 @@ export default defineConfig({
   site: 'https://www.tennistaulacatalunya.com',
   output: 'hybrid',
   adapter: vercel(),
-  integrations: [mdx(), sitemap(), keystatic()],
+  integrations: [
+    mdx(),
+    sitemap({
+      serialize(item) {
+        return { ...item, lastmod: new Date().toISOString().split('T')[0] };
+      }
+    }),
+    keystatic(),
+  ],
 });

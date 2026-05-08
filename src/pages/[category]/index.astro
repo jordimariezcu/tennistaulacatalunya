@@ -27,8 +27,17 @@ export async function getStaticPaths() {
   );
 }
 const { posts, collection, meta } = Astro.props;
+const siteUrl = 'https://www.tennistaulacatalunya.com';
+const breadcrumb = {
+  "@context": "https://schema.org", "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Inici", "item": siteUrl + "/" },
+    { "@type": "ListItem", "position": 2, "name": meta.label, "item": `${siteUrl}/${collection}/` }
+  ]
+};
 ---
 <BaseLayout title={meta.label} description={meta.description}>
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumb)} slot="head" />
   <div class="cat-page">
     <div class="container">
       <div class="cat-header">
