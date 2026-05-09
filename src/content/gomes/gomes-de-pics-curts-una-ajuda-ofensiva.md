@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gomes de pics curts, una ajuda ofensiva"
 description: "Les gomes de pics curts redueixen la sensibilitat a l'efecte rival i permeten atacar directament amb cops ràpids i plans, una opció ofensiva eficaç per bloquejar topspins amb comoditat."
 pubDate: "2025-08-15"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Goma de pics curts](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLM_wnGcOAuScXl1cU1BRsSmn7cisMyaXvujEgExxW71hayMin_EYhiOLMBG7LT62JrWznozd_MdxmL0J3XNnsmnoVAwG37IUNNWr-kOWP9mQ9Xf0ci98k39umiTfJxWwquA-16mCxarHR9PhVvMkhv3lDOxhiz012P1td_V0eOJnsFXm1RPtZRvCFBTGg/w400-h300/goma%20pics%20curts%20-%20tennis%20taula.jpg)
+![Goma de pics curts](/images/goma_pics_curts_-_tennis_taula.jpg)
 
 ]()
 |  |

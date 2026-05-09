@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mànec còncau (FL – Flared)"
 description: "El mànec còncau o flared és el preferit dels jugadors ofensius: s'eixampla a la base per evitar que rellisqui, oferint una subjecció segura i estable ideal per a cops potents i partides llargues."
 pubDate: "2025-08-08"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Mànec còncau (FL – Flared)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdZRGRgarU1fQuX1IOTE6dF9XDQoioa8p5L1zvcUsZ2SFHlu07EOscTRyR_r5A-6xOOmFOXbm4bbooGxdIjxBfIt_auP3afgwjny5gh-zZw0BXJ1XuIqm4n9hOj2Og_D4Kxqj0lmtJRm_Ygr_iEDgGSCz3d2VQw_Xl-wn8pj6_BvUYxo0ZcaNpxlK5lU1J/w400-h399/fusta%20m%C3%A0nec%20%20FL.jpg)
+![Mànec còncau (FL – Flared)](/images/fusta_mànec__FL.jpg)
 
 ]()
 |  |

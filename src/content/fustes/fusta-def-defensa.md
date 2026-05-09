@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fusta DEF - Defensa"
 description: "Les fustes DEF són les més lentes del mercat, dissenyades per a jugadors defensius que prioritzen el control màxim, la col·locació precisa i l'ús de pics llargs o antitop."
 pubDate: "2025-08-03"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Butterfly Innershield Layer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnSxxeRHoHMpRd-VIvizf8CDteDH5W432tKZ7S8D-3-pbFLCPVyutYINSrUmLXoxCYjTmxSwIAq1uWeif1VgrAS8IjXaK4Ldu5boQMeuL1xBiD418xzcH5e7TzJgEV28pQy8XdryGNUHayY9j347b4J6JzUKD-sm37QqBn3WdwwghIP4l-95C_7cuIGe9G/w239-h400/fusta%20Butterfly%20Innershield%20Layer.jpg)
+![Butterfly Innershield Layer](/images/fusta_Butterfly_Innershield_Layer.jpg)
 
 ]()
 |  |

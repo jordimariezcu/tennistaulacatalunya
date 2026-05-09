@@ -1,4 +1,4 @@
----
+﻿---
 title: "Copa de la Reina 2026 - Gran paper de Miró Ganxets Costa Daurada i Girbau Vic TT"
 description: "Miró Ganxets Costa Daurada arriben a la final de la Copa de la Reina 2026 a Tarragona, on cauen per 3-2 davant UCAM Cartagena. Gran actuació dels equips femenins catalans en aquest torneig de tennis taula."
 pubDate: "2026-02-20"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Copa de la Reina de tennis taula 2026 Tarragona](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRT121Mf9-0O-ZGPf-P6kivNyQ4dtiqHYmK9a51gWxMv0Hr0WHmOPA-eOydTH70IBlKHwNLkfSvhoqCwPK0U7Jje0AY32gy64eAXG54Jrlg9rTZzwRWVKiKipuMU37gwQxL6ga-r88nveJyAxUcxuB1KhGFzbnSd91M0QkFCvBdAUVTQJYfEdpfIrv1F5V/w400-h266/copa%20de%20la%20reina%20tennis%20taula%202026%20Tarragona%20-%20ganxets%20reus.jpg)
+![Copa de la Reina de tennis taula 2026 Tarragona](/images/copa_de_la_reina_tennis_taula_2026_Tarragona_-_ganxets_reus.jpg)
 
 ]()
 |  |

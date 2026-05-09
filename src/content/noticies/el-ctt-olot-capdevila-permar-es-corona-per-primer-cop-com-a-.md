@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![CTT Olot - Capdevila Permar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmoTU9UxGrdF91ZxBW8aPFSXM8p-kyOtFIlGJBU-Jl6qs5L3J526mfOdOvL7ULy7OwZSi6VSjjqIP40p9Xwr_UjhU1TSX2u_cUmPetsjTq49a5476r5CjRLwcGQ8iP3oRyZLyhkZa676tHR7tSrOUDwfAFPgxvg77eJeT6hZEeT5Nz1VQBoggNlquwGVJP/w400-h266/CTT%20Olot%20%E2%80%93%20Capdevila%20Permar%20Copa%20del%20Rei%20Tennis%20Taula%202026%20Tarragona.jpg)
+![CTT Olot - Capdevila Permar](/images/CTT_Olot___Capdevila_Permar_Copa_del_Rei_Tennis_Taula_2026_Tarragona.jpg)
 
 ]()
 |  |

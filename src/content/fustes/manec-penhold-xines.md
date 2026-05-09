@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mànec Penhold xinès"
 description: "El mànec penhold xinès s'agafa com un bolígraf i permet un joc ràpid i precís a prop de la taula, amb gran mobilitat del canell per generar efectes, típic dels jugadors asiàtics d'alta competició."
 pubDate: "2025-08-10"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Mànec Penhold xinès](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8cw3IVz6uUkzyallr14NCfaj98Ok1sdmnSGdaGgEFSnczB1MuIME7LBmnv831SjINTothzXc88ZNWPXMEkMDS32Fth1G-c73XK-6R7NFZV58PUVPUI15_fgrU8nC84ejJ9L49L8pJYdqDeeFrzzu5L6dY4-MCX9-tIUsQcA0Ef4N74E-inHFfR2aspxzT/w400-h390/fusta%20m%C3%A0nec%20%20chinese%20penhold.jpg)
+![Mànec Penhold xinès](/images/fusta_mànec__chinese_penhold.jpg)
 
 ]()
 |  |

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fusta OFF (Offensive estàndard) "
 description: "Les fustes OFF ofereixen alta velocitat per a jugadors ofensius experimentats que busquen punts guanyadors amb topspins potents i loops des de mitja distància o prop de la taula."
 pubDate: "2025-08-04"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Tibhar Samsonov Force Pro Black Edition](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC5HvvLRuju2r5rFJ5xhU4GDFHL9vAKqNbxsvF6duUaBfrzggKNsqWnhW3KYRN4xw1kWOrbyhPxFR2_tu_1KU1uC1auDwbO8eCnshmni4Nsv4EX4RoCyLYkFpWy2-qGz8rlRQZ7sOa0n3TAo1GbKKjCC9mj3znXgpt7qnCdUEQ4C83CHzsoebOXavF7Xg_/w400-h286/fusta%20Tibhar%20Samsonov%20Force%20Pro%20Black%20Edition.jpg)
+![Tibhar Samsonov Force Pro Black Edition](/images/fusta_Tibhar_Samsonov_Force_Pro_Black_Edition.jpg)
 
 ]()
 |  |

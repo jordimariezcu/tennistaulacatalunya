@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pala per molestar: Maze Performance + Rhyzen Ice + pics mitjans"
 description: "Configuració per molestar per 165 euros: Butterfly Maze Performance amb Joola Rhyzen Ice al drive i pics mitjans Power Pipes al revés, ideal per alternar atac i tocs estranys amb efecte catapulta sorprenent."
 pubDate: "2025-08-18"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Butterfly Maze Performance](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-HUJi0jwXyLp04vOuAAz2c-AnPgXz6MxXOoMRUuoKBHKtaLPN3ngmjSIxOX449fK9GLr8Uq2FO1PnUkYmgccAFw0bzOBxoU9EPVhst3OMwu2uNM4A3Xcfc4GsZRC1ezExFFgzeqEMEV1SRXqzcw0O_UpB3Se0BOUrdHyGnTEFgQwPu3tjqBn2BptgXkAC/w236-h400/Fusta%20Butterfly%20Maze%20Performance.jpg)
+![Butterfly Maze Performance](/images/Fusta_Butterfly_Maze_Performance.jpg)
 
 ]()
 |  |
@@ -40,7 +40,7 @@ Alguns articles que us poden ajudar si no heu entès alguna cosa del que us he e
 
 [
 
-![Goma Der-Materialspezialist Power Pipes](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDNPcRmFCkoFWhM3zyOXSKmGcxPxqMW9orQdqlLDby7omVuS3kSaNLqsDi3RiF3zF29WDRr8v-Zc8LvAl-So99pJKDgfMnccBqFriYV_G8bgV95RPMbHnRDAKG82947DSCatPHZoPoGHm56oeGgyLmI-JfS8n4eMOCp30fyEQ8hAuSOTl41tPnrRqa0q8I/w239-h400/Goma%20pics%20mitjans%20der-materialspezialist%20Power%20Pipes.jpg)
+![Goma Der-Materialspezialist Power Pipes](/images/Goma_pics_mitjans_der-materialspezialist_Power_Pipes.jpg)
 
 ]()
 |  |

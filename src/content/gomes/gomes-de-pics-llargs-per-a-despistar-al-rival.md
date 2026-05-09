@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gomes de pics llargs, per a despistar al rival"
 description: "Les gomes de pics llargs generen devolucions imprevisibles invertint l'efecte de la pilota, molt populars entre jugadors defensius que volen trencar el ritme del contrari amb talls i bloquejos estranys."
 pubDate: "2025-08-16"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Goma de pics llargs](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKXey2yv5bPlZg3zYJfdMhmfOwB7V3iuwFk6d3b01EJ8qCJ0X6rDmKFKVRcf3rxtweDvb_Y057wfTMMowQ90gRiYy4hPXL2UTjdXKJSJ3bkRudv6hcB8KzU94u8R4vBDm75OL0IoNzdNwp9Hv8svRfDkzZX6gsRQVEg-7-rPNynKTJoLtWQUlI-0B2yhJ/w400-h348/goma%20pics%20llargs%20-%20tennis%20taula.jpg)
+![Goma de pics llargs](/images/goma_pics_llargs_-_tennis_taula.jpg)
 
 ]()
 |  |

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pala de control: Butterfly Boll Mezzoforte + gomes Friendship 729 FX super soft"
 description: "Configuració de pala de control per 88 euros: fusta Butterfly Boll Mezzoforte ALL+ amb gomes Friendship 729 FX Super Soft, una combinació lleugera i equilibrada ideal per a principiants que volen progresar."
 pubDate: "2025-08-19"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Butterfly Boll Mezzoforte](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV6sNNfKih8Z7E9zuyQRfWQuDrEDfbW8pSXLMtptDUXbO_JIBmkA-2aywmzt9_fzfdP5mhV7UhBk_kAmzc1TAOyiOKbiswAkIVv696pM3XNP1m1vQ8SR9Gpl1xR9HYKrSP93hKs9MS5SWtVgkPmBD5aeJDqpsVh7IaKDioJU6YSuIJPrvheI_-XfHwOqgv/w245-h400/Fusta%20Butterfly%20Boll%20MEZZOFORTE.jpg)
+![Butterfly Boll Mezzoforte](/images/Fusta_Butterfly_Boll_MEZZOFORTE.jpg)
 
 ]()
 |  |
@@ -34,7 +34,7 @@ Alguns articles que us poden ajudar si no heu entès alguna cosa del que us he e
 
 [
 
-![Goma Friendship 729 FX SUPER SOFT](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL5q5QOtMBk1ePEVohGZFc5S9WkeO5GaqzT7lulLJzUuJTDGhoyNZdA1dQLBPjbm10bOK62dHeA9B2_jLltpafY2TQpcIFnMcr9KLW0p3mswUCIXOq73_VAFJxiaMoQzl_0RZq2jAtGqO6q50Iqj4Lryi-iAt3kIfx5o7MMsIctoV1UwTUO2Af6xGh3dKJ/w299-h400/Goma%20llisa%20Friendship%20729%20FX%20SUPER%20SOFT.jpg)
+![Goma Friendship 729 FX SUPER SOFT](/images/Goma_llisa_Friendship_729_FX_SUPER_SOFT.jpg)
 
 ]()
 |  |

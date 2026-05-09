@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pala per a jugar a l'estil defensiu clàssic"
 description: "L'estil defensiu clàssic es basa en bloquejos, talls i control total. Descobreix quines fustes DEF o ALLROUND i gomes de pics llargs o llises lentes s'adapten millor a aquest joc pacient."
 pubDate: "2025-09-08"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![imatge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxKkTM08lrr2mf1sona4yXswKFuU5X6OpALs3iirDPj8bYRLUqblw1hdsx9X92q8AJ-t-xtrK8rU-cPUNPBmWSXKzLuEgkAzTKkk-bODbbD8t13oICYSIeVA_tI3k_osOJzTBoUjuY32vOSAhSKNWMkXE6hvyiDj9xdW_rd_Z69vG5op8iruiYEAFLiR95/s320/fusta%20DEF%20butterfly%20diode%20pro.jpg)
+![imatge](/images/fusta_DEF_butterfly_diode_pro.jpg)
 
 ]()
 

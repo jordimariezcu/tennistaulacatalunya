@@ -1,4 +1,4 @@
----
+﻿---
 title: "Quines aptituds es necessiten per a jugar a tennis taula?"
 description: "Jugar bé a tennis taula requereix velocitat, agilitat, coordinació ull-mà i resistència física, però també concentració, anticipació, paciència i autocontrol mental per resistir la pressió del punt."
 pubDate: "2025-09-13"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![imatge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh6h92gq2WBzAeBIyJlQm9oDs3rg-fL-SPgsrH_eWFE06Byto8mWmqyWmVdglML2aO7pQrqIjjexgaDKMjdBb_HwDzj1rUmPqgTg8DF_D2ei1Xdiy18b-atUcCcUPshq40-YZBXEi-bYh5ELzJjyPsLOTKk3Bt2oOkYvMsiq2COTaT-jXyi8qaVVQ7qfUg/w400-h300/aptituds%20jugar%20tennis%20taula.jpg)
+![imatge](/images/aptituds_jugar_tennis_taula.jpg)
 
 ]()
 A primera vista, el tennis de taula pot semblar un esport tranquil, gairebé zen: una tauleta, una piloteta, dues persones colpejant-se amb cara de concentració… Però la realitat és ben diferent. Per jugar bé a tennis de taula -i no diguem ja competir- necessites una bona combinació de qualitats físiques i mentals. I no, no n’hi ha prou amb tenir bons reflexos “de consola”.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Què necessites per a començar a jugar a tennis taula?"
 description: "Tot el material necessari per començar a jugar a tennis taula: pala amb gomes toves, pilotes ABS de 3 estrelles, roba fosca, sabatilles de subjecció lateral i els consells per no fer errors de principiant."
 pubDate: "2025-09-12"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![imatge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD8EP9sJ6G19yDm1LRPdlw39SmS7zzhlHQ51-ESYyz75caGOzZVi6BH8TLnzJk4YDWGxGQUP6asazpSz71LrG8igleV3KKVadpbcr9WEqjO2JjF319OZ6hslyvbXwq_BmAPvUgAXtUvEUXYa_99s6HmIAecf6YS5flvA9XLB36zY1R35vCuYvipx2kOsDX/w400-h300/material%20necessari%20tennis%20taula.jpg)
+![imatge](/images/material_necessari_tennis_taula.jpg)
 
 ]()
 T’ha picat el cuquet del tennis de taula i vols començar. Bona elecció! Però és clar… què necessites exactament? Una pala amb Wi-Fi? Sabatilles amb turbo? Tranquil, començar és fàcil i no cal hipotecar-se.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fusta OFF- (Offensive menys) "
 description: "Les fustes OFF- combinen bona velocitat i control, ideals per a jugadors ofensius en formació que ataquen amb topspin controlat sense renunciar a la precisió ni al bloqueig puntual."
 pubDate: "2025-08-05"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Butterfly OVTCHAROV S1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3INrW0_OPWUgErywFVoydznYR0Ya_iadDTrSqXWnuWWniGEL8-6StrQHbis0heVskJCK-Qdf6K51kIZUX0gOhN_x6jVbcaDJqoLk34D8d0S6dmXoUW5d21eAMYG2QH37NDFC-M9CdV6rg9_k3VTl5r8vuAV1_AHViiVMfSm4yj7Zpnst1q866odNKxDrk/w391-h400/fusta%20Butterfly%20OVTCHAROV%20S1.jpg)
+![Butterfly OVTCHAROV S1](/images/fusta_Butterfly_OVTCHAROV_S1.jpg)
 
 ]()
 |  |

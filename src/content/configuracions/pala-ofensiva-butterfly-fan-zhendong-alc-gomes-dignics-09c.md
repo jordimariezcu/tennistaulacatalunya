@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pala ofensiva: Butterfly Fan Zhendong ALC + gomes Dignics 09C"
 description: "Configuració professional per 340 euros: fusta Butterfly Fan Zhendong ALC amb Dignics 09C al drive i Dignics 05 al revés, una pala d'alt rendiment per a jugadors experts que busquen velocitat i precisió màximes."
 pubDate: "2025-08-20"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Fusta Butterfly Fan Zhendong ALC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3uCB0Aq-pnSsbHVeJNSWll0SCEc1xLNwNmBAVioa-8uoee5jo0Z2tSzB5zlunQEUtaP3DKI9ZosiEWNop-Q7G3OWhKOSfCDolsZMcniA6p9Iw8bAmj6GzUTL6IjzZOmsF76zMsKffApnB9e4oP5Gz2vDqLcndBNLtmlm679hcgv4iCHfQ3wkESzyVm-mC/w281-h400/Fusta%20Butterfly%20Fan%20Zhendong%20ALC.jpg)
+![Fusta Butterfly Fan Zhendong ALC](/images/Fusta_Butterfly_Fan_Zhendong_ALC.jpg)
 
 ]()
 |  |
@@ -36,7 +36,7 @@ Alguns articles que us poden ajudar si no heu entès alguna cosa del que us he e
 
 [
 
-![Goma Butterfly Dignics 09C](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT25XZZZ2qsIeDqzIUdkT-RzaemWJSR8w9jzY69rvJ8sqSGr6lkJcdNEadXk0AR8JbdH-HF8NbkFq0CZdnnAVBzZtkqHdZUvN8aHa1AKkOXU3rbHkf3b0EaCr-9hCoq_zcXjFxx91EStNjqeRjWVIep4x-1cADj5zXqIKs0e2SZPmMufWoE2BGK5t3Zv2u/w273-h400/Goma%20llisa%20Butterfly%20DIGNICS%2005.jpg)
+![Goma Butterfly Dignics 09C](/images/Goma_llisa_Butterfly_DIGNICS_05.jpg)
 
 ]()
 |  |

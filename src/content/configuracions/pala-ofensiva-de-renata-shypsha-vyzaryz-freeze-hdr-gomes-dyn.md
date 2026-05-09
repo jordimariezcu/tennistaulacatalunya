@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pala ofensiva de Renata Shypsha: Vyzaryz Freeze HDR + gomes Dynaryz ACC"
 description: "La pala de Renata Shypsha, quadruple campiona d'Espanya infantil 2025: Joola Vyzaryz Freeze HDR amb gomes Dynaryz ACC, una configuració ofensiva de 316 euros amb gran velocitat i precisió."
 pubDate: "2025-08-22"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Fusta Joola Vyzaryz Freeze HDR](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6g8hYxQ2HbL4SB3cmDvPzkT99SYhhp-CC4rE-37lMHeUSNEGTJpL1PBnyQtfarxVtVrsyuGc0RbsXsuKVYl6oNOKkFEhL65uvm1BY1EqZ0j8YRSedCxFtT0GoMD0ESBA40HVVWVUGGTHDThuPyUUEL3wprViE0VQBCE-mdlt8xmnti_qVQRYPLSN2a2aX/w224-h400/fusta%20joola%20vyzaryz%20Freeze%20HRD.jpg)
+![Fusta Joola Vyzaryz Freeze HDR](/images/fusta_joola_vyzaryz_Freeze_HRD.jpg)
 
 ]()
 |  |
@@ -35,7 +35,7 @@ Alguns articles que us poden ajudar si no heu entès alguna cosa del que us he e
 
 [
 
-![Renata Shypsha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNzvaAffhiXnCNIHofoAlyo8IbD3Ik7Bo_zrV-iCMDjwlFuwBUp3brx9CemXjncJ-GCzhqKu6h5_0AtvYLTt6msrblbe89S-kstZP2qC1Bj1SDCkbSrgz6HwJK-X7OYe5GIa1Ma2o44g5meCwtK0aKZ6E86jYy-TNWdML79ShHyR4mTvYxjfoIdmGJb2UK/w320-h400/renata%20shypsha%20-%20ganxets%20reus.jpg)
+![Renata Shypsha](/images/renata_shypsha_-_ganxets_reus.jpg)
 
 ]()
 |  |
@@ -44,7 +44,7 @@ Alguns articles que us poden ajudar si no heu entès alguna cosa del que us he e
 
 [
 
-![Joola Dynaryz ACC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGVUNQx1TuWGOE5_uDgjjKLBk3NH_7DjlpE1Pw_JMv11pGk3HfurbPmpmRCNrjUFVNSGH2NvRYfJi4ZGYGICUtGDNC-p84BprTxSBX5hOPfVxSUCrUh1qaTpnXaZA7a6pYj1aVefIFLJina8kAhGxUakqUj9P7pIidBBwKIiASJHWeAt9KOdCqwt5AEICz/w235-h400/goma%20joola%20dynaryz%20acc.jpg)
+![Joola Dynaryz ACC](/images/goma_joola_dynaryz_acc.jpg)
 
 ]()
 |  |

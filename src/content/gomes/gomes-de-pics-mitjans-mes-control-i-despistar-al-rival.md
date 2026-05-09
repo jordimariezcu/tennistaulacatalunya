@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gomes de pics mitjans, més control i despistar al rival"
 description: "Les gomes de pics mitjans combinen control i efecte disruptiu, més fàcils de dominar que els pics llargs i ideals per a un joc mixt que alterna bloquejos, talls i cops actius desconcertants."
 pubDate: "2025-08-17"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Goma de pics mitjans](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgDVmAIIjXH3euEZUJpBwcV_VKXmtwLWI-HHaNu1RDYzvOkZoNP2NHkkJkoEJJxPuw_OI8NmQTXKekZF3eMZzViQEOFutmlkEFGxo4hVQUP7FjLr-52RnJtsNt5SgkQWN3KJYdkAYZ-ZBgPoXpfEllb-NfUa7ewrtSIGevhUolSTkI6gm0DurpnCsr6HQB/w400-h396/goma%20pics%20mitjans%20-%20tennis%20taula.jpg)
+![Goma de pics mitjans](/images/goma_pics_mitjans_-_tennis_taula.jpg)
 
 ]()
 |  |

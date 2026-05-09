@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fusta ALL – Allround (tot terreny) "
 description: "Les fustes ALL combinen velocitat mitjana i molt bon control, perfectes per a principiants i jugadors que alternen atac i defensa amb varietat d'efectes i estabilitat."
 pubDate: "2025-08-01"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Stiga Allround Classic Cybershape](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLZW6YjQ9t9lz7SDLo-cOnaSY_tfv-055YDeYqfGzqYovFBXLGXjM-FTWR69WPhYTfrrcbbLEKKrN3_lcnt0dTcgxVBg0hYMPMVUpaBG7VyLaeIiIbnDF39XPdcddfIpzFfOwTMmFC6OI1OcIF2VdXw7_B5rk03XsGMV54C3orVF9GJnCf7Wusqdf5D03R/w376-h400/FUSTA%20STIGA%20ALLROUND%20CLASSIC%20CYBERSHAPE.jpg)
+![Stiga Allround Classic Cybershape](/images/FUSTA_STIGA_ALLROUND_CLASSIC_CYBERSHAPE.jpg)
 
 ]()
 |  |

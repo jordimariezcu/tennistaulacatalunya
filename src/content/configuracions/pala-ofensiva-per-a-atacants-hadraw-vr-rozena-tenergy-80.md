@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pala ofensiva per a atacants: Hadraw VR + Rozena + Tenergy 80 "
 description: "Configuració ofensiva per 194 euros: fusta Butterfly Hadraw VR OFF amb Tenergy 80 al drive i Rozena al revés, una combinació equilibrada de velocitat i control per a jugadors que gaudeixen atacant."
 pubDate: "2025-08-12"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Butterfly Hadraw VR + goma Rozena](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBjDnc5YVJp5mJId9qu8e5Kk7tJ-KP0xTEV6o0Ob_9aovvLVLFToE_FBG3pCiRYJWYSC-0SIN13TuSI7z9Slu_JHIU0awX2YAdHrGq-Eub3QSxPwtjIYkE2aPugthRf89pksSK_I8yyj5X7tsbhZXQlkiwqZ4zgICyMyHuC9h82t9kH1P7OMI2WEThVe1W/w400-h300/hadraw%20vr.jpg)
+![Butterfly Hadraw VR + goma Rozena](/images/hadraw_vr.jpg)
 
 ]()
 |  |
@@ -32,7 +32,7 @@ Al revés porto la versió “barata”, una Butterfly Rozena d’1,7 mm. També
 
 [
 
-![Tenergy 80](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjNYNpcWxwp9LCgYTT59cf7NCciYYZiZ0nC4WLyELHJyIY3w-SKRVIJ0wMDJQzOB6anvRXI2z0LsvtC7Hcattdve0fXT1rz02lWs2FGTCMc9w30NAdyYeNnjagS86vGqJCMU7_S1BBVxF3_26VhRaXBjaLFzvweXSiwoEgu6a7EP1KyiHnd1FS9P7HuUHJ/w400-h300/tenergy%2080.jpg)
+![Tenergy 80](/images/tenergy_80.jpg)
 
 ]()
 |  |

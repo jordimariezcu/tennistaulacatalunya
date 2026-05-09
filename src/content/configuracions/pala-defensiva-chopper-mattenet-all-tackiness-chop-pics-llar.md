@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pala defensiva (chopper): Mattenet ALL + Tackiness chop + pics llargs "
 description: "Configuració defensiva per 110 euros: fusta Joola Mattenet ALL+ amb goma Butterfly Tackiness Chop al drive i pics llargs Victas Curl P1V al revés, perfecta per a talladors que volen desestabilitzar el rival."
 pubDate: "2025-09-17"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![imatge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie4thb31GJRzca84jeM4unXKaIodjEekYHbLHvrhbSTOFemD3cCRnZI8t4EnRfCQmz2kq13Ba748wpMhh_JR1cgOpcGq5tjoB6IC0tCmKQBtQTEav3LXslIR8LmPgFvLYE_FQnn_xq7xcgUxRvvjqPsJSyH8plCpEBCGcnOziS73fvcfwk3saGIfrn34zz/w400-h369/pics%20llargs.jpg)
+![imatge](/images/pics_llargs.jpg)
 
 ]()
 |  |
@@ -38,7 +38,7 @@ Alguns articles que us poden ajudar si no heu entès alguna cosa del que us he e
 
 [
 
-![Fusta Joola Mattenet ALL+ amb goma Tackiness CHOP](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCxuLcwQmtm8N5CZqg8AzjuDC4dGoM78gRkurngg74rew0mvZ5WbBqr1I2KyMMAZ5VrZqbrY-faPaNdNUK09L5ChDYtPrc_4WioSQxnOcpk9sNmNlzvqf7oLziyjBwj5WBB2f7zHeccULXuNYp9BtGBYd4Um5GQUc4KjSqlvX0SMx_yevxQ61loqa86C6r/w242-h400/joola%20mattenet%20all+.jpg)
+![Fusta Joola Mattenet ALL+ amb goma Tackiness CHOP](/images/joola_mattenet_all_.jpg)
 
 ]()
 |  |
@@ -46,7 +46,7 @@ Alguns articles que us poden ajudar si no heu entès alguna cosa del que us he e
 | Fusta Joola Mattenet ALL+ amb goma Tackiness CHOP |
 [
 
-![Goma Victas Curl P1V de pics llargs](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF_K96XeaCFF-95xgx4ilUKr5_VtChLOT5PYaDOwzADFjOMTSeXiFZL6NMkZ6v9RrDlOiDJKYXmIJFbhf7gbauZEakiWtdknLYrYJ0nWbl7hK1y41rClIGfnEsW8DS3WDzGtMCMSAMv7V8jnCzVorKPchOdIWhTKg4Ug5XyqZBEjCNw2JKgleEfZOgSDoc/w256-h400/victas%20curl%20piv.jpg)
+![Goma Victas Curl P1V de pics llargs](/images/victas_curl_piv.jpg)
 
 ]()
 |  |

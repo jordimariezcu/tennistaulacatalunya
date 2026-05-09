@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mànec anatòmic (AN – Anatomic)"
 description: "El mànec anatòmic s'adapta a la forma de la mà amb una lleugera curvatura, oferint comoditat excepcional i bon control, perfecte per a jugadors polivalents que prioritzen la sensació natural."
 pubDate: "2025-08-09"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Mànec anatòmic (AN – Anatomic)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0j5pNoqB3VRej_X9CF1DlltFx6RPZ8giTTVpEp7exy4DegS5qEm-NifOUmvaAquLKHNDQWDzHOXOPDkXf3QLYx6SamcouoRshfK0FXQpmhj6Y2GutV2Ieimy-gHOV4QXs1x_R2OlLLVdAoaUAg8a-DGniVvOziDOCtY5GUYpYlu6bwH_hX0lNlp6GJfKw/w391-h400/fusta%20m%C3%A0nec%20AN.jpg)
+![Mànec anatòmic (AN – Anatomic)](/images/fusta_mànec_AN.jpg)
 
 ]()
 |  |

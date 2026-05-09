@@ -1,4 +1,4 @@
----
+﻿---
 title: "La meva primera pala: me la faig a mida o la compro ja muntada?"
 description: "Pales pre-muntades o a mida: descobreix per què val la pena invertir en una pala de qualitat des del principi, i com les botigues especialitzades poden ajudar-te a configurar la teva primera pala."
 pubDate: "2025-09-10"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Pala pre-muntada del Decathlon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3JDTvP8Bi-AR2WdJTXraMChDna_HdlZNKjtSxINDzWSujmZdg8p_uRIYRlkwW_OaO84VNmpeV0YrK0p6NhYlx0lRCSnfaTE2gKsPMPQpCp_LFVz6PiaSJUVHpzfIMPrHJuLiPS2LSOrVMCB4141fqiAU753-dmqE2lWm6C9vd14mNVwSHS6v0XJGBGZSh/w242-h400/pongori%20pala%20sencera.jpg)
+![Pala pre-muntada del Decathlon](/images/pongori_pala_sencera.jpg)
 
 ]()
 |  |
@@ -35,7 +35,7 @@ El que fem normalment, amb el temps, és enganxar nosaltres mateixos les gomes. 
 
 [
 
-![Pala per a principiants feta a mida](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaFfI9W8_LYICLQQ2uJpFCHzdwtb-8Xp8faeHcLRGVT_kCt9GrKQVqwhEUIaarICAg-nnb0f4aXLRpIjw_ifSfm73pIBiwGzPakREpbGiccFL1JHmVWFbmb8-CAtWkjFmvXm-SB7m0W-bPsqoocLhj-5Jl_YH7fbWSXNfmw9NhZvzenjlwZk5HalvJboVs/w245-h400/Madera%20Butterfly%20Boll%20MEZZOFORTE.jpg)
+![Pala per a principiants feta a mida](/images/Madera_Butterfly_Boll_MEZZOFORTE.jpg)
 
 ]()
 |  |

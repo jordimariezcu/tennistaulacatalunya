@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fusta OFF+ (Offensive Plus) "
 description: "Les fustes OFF+ són les més ràpides, amb capes de carboni o materials sintètics, pensades per a competidors d'alt nivell que busquen potència màxima i velocitat explosiva en cada cop."
 pubDate: "2025-08-06"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![imatge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVPjZ0RY4HHqP5sJMrXvuviVe_p8bxALk3jP1CEFjD_7uH4-vjrzUBU7NDLOe-QNQ52cx-n3mnWcgP8k1e-ZmAcu1V6Z_6ETFjIoR8HOrttyUV63Y4zte4ra-PQv-SPZdHHTbkhG2bP3cpvHQeG0VWMB2RqwiziTaH_EQw8AoeAvGMGINd4W3f5cbCkUAL/w238-h400/fusta%20Butterfly%20Zhang%20Jike%20Super%20ZLC.jpg)
+![imatge](/images/fusta_Butterfly_Zhang_Jike_Super_ZLC.jpg)
 
 ]()
 |  |

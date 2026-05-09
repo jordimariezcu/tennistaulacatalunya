@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pala per a jugador de control"
 description: "El jugador de control basa el seu joc en la precisió i la consistència. Quina fusta ALL o ALL+ i quines gomes de control triar per dominar el punt amb col·locació i paciència estratègica."
 pubDate: "2025-09-06"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![imatge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO5Y1dO6rDDihDpse5hoHPzWxIj_XtwXKhFQs4GPjK-V2bP5wNpkLQod6yJosrSdDQmlhG5HFBuXneoxrCAgGcM-zXEV-jso6AL6pZQnoX8v5mP6PwcsyNLjo0Ux_DQTvQNfrgL_eMKcbPBsz1ZC42tvlAhU-HcdW1K18gYsPZy3H2D852DPYGin55BMvH/w400-h300/pala%20de%20control.jpg)
+![imatge](/images/pala_de_control.jpg)
 
 ]()
 

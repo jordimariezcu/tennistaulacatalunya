@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pala per molestar: Balsa Carbo X7 + pics curts + antitop"
 description: "Configuració disruptiva per 142 euros: Butterfly Balsa Carbo X7 amb pics curts Firestorm al drive i antitop Super Anti al revés, una pala experimental per desconcertar rivals amb efectes imprevisibles."
 pubDate: "2025-09-16"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Goma de pics curts Der-Materialspezialist Firestorm Green](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXcslAqdCVF40Fi7UXTn5GKPfDri5jeJApmtvmGSwFRREnRBEfl1G1oCD3iSHb0qfn7XozzLE4FM4DhPcYdNSyjmxiFL9SH_cwiEvZr1MJ013M8NLTjBZrZz-uuR82UXWoIXQpijUZ0yE9-Jw1WQc_jsob50fMAkkBdjaBq7wL94SVJmSPwqArO3zXqAZQ/w400-h300/pics%20curts%20Goma%20Der-Materialspezialist%20Firestorm%20Green.jpg)
+![Goma de pics curts Der-Materialspezialist Firestorm Green](/images/pics_curts_Goma_Der-Materialspezialist_Firestorm_Green.jpg)
 
 ]()
 |  |
@@ -45,7 +45,7 @@ Alguns articles que us poden ajudar si no heu entès alguna cosa del que us he e
 
 [
 
-![Fusta Butterfly Balsa Carbo x7](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN1cWKN8tFIxclegJJzdEk-yQfssTzZ924OvVtQmzebkQXlOEnDUf-bImi1fh_vxdkSzhP4hxz7J5NxgtkAcVrPRCkXvLdI1fFp-yqUjS9AE8CBw37bh52v_Q1GVR4cDhamDRlcv8ehA40sjXwQRM2s5RMh6dyaZL_c54w8jexAK2Ngu_mnLBIRLqqp1xH/w400-h300/fusta%20Butterfly%20Balsa%20carbo%20x7.jpg)
+![Fusta Butterfly Balsa Carbo x7](/images/fusta_Butterfly_Balsa_carbo_x7.jpg)
 
 ]()
 |  |
@@ -53,7 +53,7 @@ Alguns articles que us poden ajudar si no heu entès alguna cosa del que us he e
 | Fusta Butterfly Balsa Carbo x7 |
 [
 
-![Goma Butterfly Super Anti](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK1ZvJ7yYRfDPTqSi1BI5F_EvIKWtD4jt0BDjZwbF9rPi27XI7rhXpDCCb85CGCvwhYbqyQ0QlfirsxTm2074wGSIx2YyI0ZKJh3NrjBIQbfL4-iNnyCv98UT1IrfpiT9BiwOeyjJP6K1ITWBo66hq7bN7iBpTa6qoiHCoPOuRwDxmy27CuReKjrqZAoag/w400-h300/Goma%20antitop%20Butterfly%20Super%20Anti.jpg)
+![Goma Butterfly Super Anti](/images/Goma_antitop_Butterfly_Super_Anti.jpg)
 
 ]()
 |  |

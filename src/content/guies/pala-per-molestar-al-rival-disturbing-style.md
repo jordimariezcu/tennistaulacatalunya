@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pala per molestar al rival (disturbing style)"
 description: "L'estil disturbing combina gomes especials com antitop o pics per generar efectes imprevisibles i desconcertar el rival. Quines fustes ALL i gomes irregulars s'adapten millor a aquest joc no convencional."
 pubDate: "2025-09-05"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Pala amb goma antitop](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64UHtC7ZFnwXonKz63bDKU9KkmqtQ7dIrB2lxURS4fu04ktJ9GUHATZablZo3OLV79ugPlOGfxFDKryfRjyy4Ifmigx01B2HmLtxullLTYRQboh0eBDKlKnRi_gCr21KXeS_5OlK6FNmLrdLNc1zWZitFxc6DbO3K41WmPVNkS340D6slKQNqMAu4CiBZ/w304-h400/goma%20antitop%20-%20butterfly%20super%20anti.jpg)
+![Pala amb goma antitop](/images/goma_antitop_-_butterfly_super_anti.jpg)
 
 ]()
 |  |

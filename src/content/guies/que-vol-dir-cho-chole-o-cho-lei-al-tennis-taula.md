@@ -1,4 +1,4 @@
----
+﻿---
 title: “Què vol dir “cho”, “chole” o “cho-lei”, al tennis taula? “
 description: “Cho, chole o cho-lei són crits d'ànim i celebració habituals al tennis taula, probablement derivats del xinès hǎo, popularitzats per jugadors asiàtics i estesos arreu del món competitiu.”
 pubDate: “2025-08-31”
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![imatge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEDy0281-YFZ8Vm7bpLMzpD8wd36D1HhKNsGX4O8RmhXzInxJKiMndM9iNNBTPbGdNT7wRagKkgaUjRZ2VQcFz6r5riVEK0ImYN6S_64IJLeKmTq-BkCckMwd8ois0CM8eusClJZhRdVI35aZPeCXEjoo7n35-aIY3_qfmWJbL_A1e9eCaXtA0ihdrn0Cr/s320/cho%20chole%20cho-lei.jpg)
+![imatge](/images/cho_chole_cho-lei.jpg)
 
 ]()
 

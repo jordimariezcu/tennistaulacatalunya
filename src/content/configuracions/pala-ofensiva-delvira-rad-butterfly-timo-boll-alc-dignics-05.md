@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pala ofensiva d'Elvira Rad: Butterfly Timo Boll ALC + Dignics 05"
 description: "La pala d'Elvira Rad, medallista al Campionat d'Espanya Sub21 2025: Butterfly Timo Boll ALC amb gomes Dignics 05, una combinació de 330 euros per a un joc ofensiu professional d'alta velocitat i efecte."
 pubDate: "2025-08-21"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Fusta Butterfly Timo Boll ALC](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAvKTMlUgUJUN4qTEn8v9RZ-BGHoYaMOT3BTY3BJpYmrgRK3ei_ymazsDeGEZNbnMizw_yU7AJkiV2Hq1iVhLF_q-ru8guydEEmzP4U7tWNo3lxK8D3N7EubAkXPfk2qe9IR-hu0ufWR8QgNHZYGtWIPw3YDK6QbMkN6rYnoz-ZvtpVQRHLkE95jO-KO52/w240-h400/Fusta%20Butterfly%20Timo%20Boll%20ALC%20-%20dignics%2005.JPG)
+![Fusta Butterfly Timo Boll ALC](/images/Fusta_Butterfly_Timo_Boll_ALC_-_dignics_05.JPG)
 
 ]()
 |  |
@@ -35,7 +35,7 @@ Alguns articles que us poden ajudar si no heu entès alguna cosa del que us he e
 
 [
 
-![Elvira Rad](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikJpZhTLGUReSduO0_7HbJzve7yz1ZqaAR8haVGQ5_nK7-OXH-m9emwlm1espyJcAhjCdLq7qXZxEjG0BrDmQVYW2pXe756UwdnWu5L-d4QQfaZ5eFZVU-5P9GHJ8oaBFncQWcoQmwIgV72nnTJkALZNezRBTtbbzsuhZLnU1gg_ymi9wjZem03ocbFzBs/w400-h400/elvira%20rad%20-%20ganxets%20reus.jpg)
+![Elvira Rad](/images/elvira_rad_-_ganxets_reus.jpg)
 
 ]()
 |  |
@@ -43,7 +43,7 @@ Alguns articles que us poden ajudar si no heu entès alguna cosa del que us he e
 | Elvira Rad |
 [
 
-![imatge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr-LQXmpxWtbT97XFHPwchpi6i_VMSQKufVPsdqxTpyapYWUDVNlgtZ0MUvULR5P8DVT3Y0B-h-5nuUelF4a6yFN_coirLn7PvfhK2RbUYwGubttyGxY-Kmtb1Ok6Gm4RuHtq1XLQh7AzVwJ21SGKGA1NAJmSGQKyZmWPGAYmcFtealbsSLUW8-GiDFrjw/w238-h400/goma%20dignics%2005.JPG)
+![imatge](/images/goma_dignics_05.JPG)
 
 ]()
 |  |

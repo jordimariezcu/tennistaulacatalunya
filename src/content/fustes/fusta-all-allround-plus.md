@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fusta ALL+ (Allround Plus)"
 description: "La fusta ALL+ ofereix un extra de velocitat respecte a l'ALL estàndard sense perdre control, ideal per a jugadors de nivell intermig que busquen progressar cap a un joc ofensiu controlat."
 pubDate: "2025-08-02"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![DONIC Appelgren Allplay](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmPFreihECVgCWKEH871V8pto5_1fk32eigFgCZimy-439gtF1x2RvAzPfEYtf_D7e7sWTxGEvW_brva-VEDmeoHmX8ct8EEffGcw7wVg3fsuQo06MRklDd8tknbcIsYPG6E9oVKLUOKx1-StesEds7pNW4h5-wlI5rEnBXRjyFEg7Ft0ZatE8PAplzagv/w400-h314/fusta%20DONIC%20Appelgren%20Allplay.jpg)
+![DONIC Appelgren Allplay](/images/fusta_DONIC_Appelgren_Allplay.jpg)
 
 ]()
 |  |

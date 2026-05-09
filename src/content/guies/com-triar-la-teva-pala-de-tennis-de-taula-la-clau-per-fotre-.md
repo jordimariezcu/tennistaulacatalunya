@@ -1,4 +1,4 @@
----
+﻿---
 title: "Com triar la teva pala de tennis de taula: la clau per fotre-li canya a la pilota"
 description: "Sis consells pràctics per escollir la pala de tennis taula adequada al teu nivell i estil: fusta, gomes, mànec, carboni i com evitar errors freqüents al comprar el teu primer equipament."
 pubDate: "2025-09-11"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![imatge](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1upz_mnRePDs4KaiSN-e2tA5WNW8bezktR-ZbhmlVcCTKRYE_hU3bh5laPibYR6m4qI9jA68NzIk3jOfey0TQ1Om5L4p5z9NaqBfG1HkIgTrQVWcd3e2_GsjjykW6xLlhj1NUsn9bDkgS0psUAqE98XbM2H-Dhh74qr4R7ibL4Qrx-yrG44WPsDwIJa9r/w400-h300/escollir%20pala%20tennis%20taula.jpg)
+![imatge](/images/escollir_pala_tennis_taula.jpg)
 
 ]()
 Triar pala en tennis de taula no és només qüestió d’agafar la primera que vegis a la botiga i sortir disparat cap a la taula. Com en tot bon esport, l’arma que facis servir s’ha d’adaptar a tu i al teu estil. Aquí tens uns quants consells perquè no t’equivoquis i gaudeixis més de cada punt.

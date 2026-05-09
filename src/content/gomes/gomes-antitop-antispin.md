@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gomes antitop (antispin)"
 description: "Les gomes antitop neutralitzen l'efecte rival gràcies a la seva superfície llisa de baixa fricció, retornant pilotes sense gir que confonen l'adversari i faciliten el control defensiu."
 pubDate: "2025-08-14"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Gomes antitop (antispin)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5JX85UJ-H7aKf0y4uQeBrxnD_J5gTn4GJx4Y0ruOQXMDk5wkyTk7r_Evj7WJvK11UzfEDso3Iz8GAOZcbMFjiHAHVcANnhnu-W7PiVdZ1xrQOq0y09ahYqVNTGR9KX4OS14ClyH0la52iwpeadIlKh79jI8uEYat51xukrTirElk6xT6QvCSJxXDxAtws/w304-h400/goma%20antitop%20-%20butterfly%20super%20anti%20-%20pala.jpg)
+![Gomes antitop (antispin)](/images/goma_antitop_-_butterfly_super_anti_-_pala.jpg)
 
 ]()
 |  |

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gomes llises, les més habituals"
 description: "Les gomes llises són les més versàtils i habituals al tennis taula: la seva alta fricció permet generar topspin, backspin i sidespin, adaptant-se a tots els estils i nivells de joc."
 pubDate: "2025-08-13"
@@ -10,7 +10,7 @@ draft: false
 
 [
 
-![Gomes llises, les més habituals](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirpPLvd2MFPeCabVjReBCUUL9dOqoB74Q_s5XZxggt5k07UHYakuMM7WL5oCwA3xe64LPxodUIKZpW4E29gd0uPpdlcxtXqGnIuluwWJWn3glqKcz_w_0a7eXD_VxWc2_SLPlSVBmhJUREFfYifitBDM7YWsL9_74-0mycHFmpJTeQV4PhxoF_GIo-FebG/w400-h366/gomes%20llises.jpg)
+![Gomes llises, les més habituals](/images/gomes_llises.jpg)
 
 ]()
 |  |
