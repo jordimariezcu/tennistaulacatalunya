@@ -12,6 +12,7 @@ const postFields = {
   description: fields.text({ label: 'Descripció', multiline: true }),
   pubDate: fields.date({ label: 'Data de publicació' }),
   updatedDate: fields.date({ label: 'Data d\'actualització' }),
+  category: fields.text({ label: 'Categoria' }),
   tags: fields.array(fields.text({ label: 'Tag' }), { label: 'Tags', itemLabel: (p) => p.value }),
   draft: fields.checkbox({ label: 'Esborrany', defaultValue: false }),
 };
