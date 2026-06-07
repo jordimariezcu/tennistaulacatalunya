@@ -8,14 +8,13 @@ import react from '@astrojs/react';
 export default defineConfig({
   site: 'https://www.tennistaulacatalunya.com',
   output: 'hybrid',
+  trailingSlash: 'always',
   adapter: vercel(),
   integrations: [
     react(),
     mdx(),
     sitemap({
-      serialize(item) {
-        return { ...item, lastmod: new Date().toISOString().split('T')[0] };
-      }
+      filter: (page) => !page.includes('/keystatic') && !page.includes('/api/'),
     }),
     keystatic(),
   ],

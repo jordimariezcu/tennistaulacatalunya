@@ -6,7 +6,7 @@ const siteDesc = 'Tot sobre el tennis taula: fustes, gomes, configuracions i not
 const fullTitle = title ? `${title} · ${siteTitle}` : siteTitle;
 const metaDesc = description || siteDesc;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const ogImage = 'https://www.tennistaulacatalunya.com/og-image.svg';
+const ogImage = 'https://www.tennistaulacatalunya.com/og-image.jpg';
 ---
 <!DOCTYPE html>
 <html lang="ca">
@@ -15,7 +15,10 @@ const ogImage = 'https://www.tennistaulacatalunya.com/og-image.svg';
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{fullTitle}</title>
   <meta name="description" content={metaDesc} />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
   <link rel="canonical" href={canonicalURL} />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <meta property="og:title" content={fullTitle} />
   <meta property="og:description" content={metaDesc} />
@@ -33,11 +36,30 @@ const ogImage = 'https://www.tennistaulacatalunya.com/og-image.svg';
   <link rel="sitemap" href="/sitemap-index.xml" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": siteTitle,
-    "url": "https://www.tennistaulacatalunya.com",
-    "description": siteDesc,
-    "inLanguage": "ca"
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://www.tennistaulacatalunya.com/#website",
+        "name": siteTitle,
+        "url": "https://www.tennistaulacatalunya.com",
+        "description": siteDesc,
+        "inLanguage": "ca"
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://www.tennistaulacatalunya.com/#organization",
+        "name": siteTitle,
+        "url": "https://www.tennistaulacatalunya.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.tennistaulacatalunya.com/og-image.jpg",
+          "width": 1200,
+          "height": 630
+        },
+        "sameAs": [],
+        "description": siteDesc
+      }
+    ]
   })} />
   <slot name="head" />
   <script defer src="https://umami-production-c3fa.up.railway.app/script.js" data-website-id="d5082aa6-53d1-48f7-a66c-1f3e472947bc"></script>
@@ -91,7 +113,7 @@ const ogImage = 'https://www.tennistaulacatalunya.com/og-image.svg';
 .logo { font-family: var(--font-display); font-size: 1.2rem; font-weight: 700; letter-spacing: -0.02em; flex-shrink: 0; }
 .logo-main { color: var(--text); } .logo-accent { color: var(--accent); margin-left: 4px; }
 .main-nav { display: flex; gap: 4px; }
-.main-nav a { font-size: 0.85rem; color: var(--text-secondary); padding: 6px 10px; border-radius: var(--radius); transition: all 0.15s; }
+.main-nav a { font-size: 0.85rem; color: var(--text-secondary); padding: 6px 10px; border-radius: var(--radius); transition: all 0.15s; min-height: 44px; display: flex; align-items: center; }
 .main-nav a:hover { color: var(--text); background: var(--bg-secondary); }
 .nav-toggle { display: none; flex-direction: column; gap: 5px; background: none; border: none; cursor: pointer; padding: 4px; }
 .nav-toggle span { display: block; width: 22px; height: 2px; background: var(--text); border-radius: 2px; }

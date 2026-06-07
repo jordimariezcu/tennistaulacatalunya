@@ -5,12 +5,32 @@ import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
   const collections = ['fustes','configuracions','guies','gomes','noticies'] as const;
-  const categoryMeta: Record<string, { label: string; description: string }> = {
-    fustes: { label: 'Fustes', description: 'Anàlisi de fustes de tennis taula: ofensives, defensives i allround per a tots els nivells.' },
-    configuracions: { label: 'Configuracions de Pales', description: 'Configuracions de pales completes per a jugadors professionals i amateur de tennis taula.' },
-    guies: { label: 'Guies', description: 'Guies completes per entendre el tennis taula: materials, regles i fonaments.' },
-    gomes: { label: 'Gomes', description: 'Ressenyes i anàlisis de gomes de tennis taula: llises, pics, antispin i més.' },
-    noticies: { label: 'Notícies', description: 'Notícies del tennis taula a Catalunya: tornejos, competicions i resultats.' },
+  const categoryMeta: Record<string, { label: string; title: string; description: string }> = {
+    fustes: {
+      label: 'Fustes de Tennis Taula',
+      title: 'Fustes de Tennis Taula: Ofensives, Defensives i Allround · TTC',
+      description: 'Guia completa de fustes de tennis taula: tipus, diferències entre ofensiva, defensiva i allround, i quin mànec triar. Anàlisi en català per a tots els nivells.'
+    },
+    configuracions: {
+      label: 'Configuracions de Pales',
+      title: 'Configuracions de Pales de Tennis Taula: Fustes + Gomes · TTC',
+      description: 'Configuracions completes de pales de tennis taula per a jugadors de tots els nivells: fustes, gomes, estils ofensiu, defensiu i de control. Guies en català.'
+    },
+    guies: {
+      label: 'Guies de Tennis Taula',
+      title: 'Guies de Tennis Taula en Català: Materials, Regles i Consells · TTC',
+      description: 'Guies pràctiques de tennis taula en català: com triar la teva pala, tipus de gomes i fustes, regles bàsiques i consells per millorar el teu joc. Per a tots els nivells.'
+    },
+    gomes: {
+      label: 'Gomes de Tennis Taula',
+      title: 'Gomes de Tennis Taula: Llises, Pics, Antispin i Antitop · TTC',
+      description: 'Ressenyes i comparatives de gomes de tennis taula en català: gomes llises, de pics curts, pics llargs, antispin i antitop. Troba la goma adequada per al teu joc.'
+    },
+    noticies: {
+      label: 'Notícies de Tennis Taula',
+      title: 'Notícies de Tennis Taula a Catalunya: Tornejos i Resultats · TTC',
+      description: 'Notícies de tennis taula a Catalunya: tornejos, competicions per equips, resultats i convocatòries de la selecció catalana. Actualitat del tennis taula català.'
+    },
   };
   return await Promise.all(
     collections.map(async (col) => {
@@ -36,7 +56,7 @@ const breadcrumb = {
   ]
 };
 ---
-<BaseLayout title={meta.label} description={meta.description}>
+<BaseLayout title={meta.title} description={meta.description}>
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumb)} slot="head" />
   <div class="cat-page">
     <div class="container">

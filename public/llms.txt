@@ -1,0 +1,30 @@
+# Tennis Taula Catalunya
+
+> Blog en català sobre tennis taula (ping pong): material, tècnica i notícies de competicions a Catalunya.
+
+## Descripció
+
+Tennis Taula Catalunya és el principal blog en llengua catalana sobre tennis taula. Publiquem guies de compra, anàlisis de material (fustes i gomes), configuracions de pales i cobertura de competicions catalanes.
+
+## Seccions principals
+
+- [Guies](/guies/) — Guies pràctiques per a jugadors de tots els nivells: com triar pala, tipus de material, regles i fonaments del joc.
+- [Fustes](/fustes/) — Anàlisi de fustes de tennis taula: ofensives (OFF, OFF+), allround (ALL, ALL+) i defensives (DEF), amb comparatives per estil de joc.
+- [Gomes](/gomes/) — Ressenyes de gomes: llises, pics curts, pics llargs, antispin i antitop.
+- [Configuracions](/configuracions/) — Configuracions completes de pales (fusta + gomes) per a estils ofensiu, defensiu, de control i de molèstia.
+- [Notícies](/noticies/) — Resultats i cròniques del tennis taula català: lliga per equips, Copa del Rei/Reina, selecció catalana i tornejos internacionals.
+
+## Pàgines destacades
+
+- [Com triar la teva pala de tennis taula](/guies/com-triar-la-teva-pala-de-tennis-de-taula-la-clau-per-fotre-/)
+- [Guia de taules de ping pong (interior, exterior, antivandàliques)](/guies/guia-taules-de-ping-pong-interior-exterior-antivandal/)
+- [Tipus de mànec per a la teva pala](/fustes/tipus-de-manec-per-a-la-teva-pala-de-tennis-taula/)
+- [Gomes llises: les més habituals](/gomes/gomes-llises-les-mes-habituals/)
+- [Gomes de pics llargs](/gomes/gomes-de-pics-llargs-per-a-despistar-al-rival/)
+- [Configuracions de pales per preus](/configuracions/configuracions-de-pales-de-tennis-taula-per-preus/)
+
+## Informació
+
+- Idioma: Català
+- País: Catalunya (Espanya)
+- Contacte: disponible a través del lloc web

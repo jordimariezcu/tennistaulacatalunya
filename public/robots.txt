@@ -3,4 +3,27 @@ Allow: /
 Disallow: /keystatic/
 Disallow: /api/keystatic/
 
+# Crawlers de cerca d'IA — permesos (citen el contingut)
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Crawlers d'entrenament d'IA — bloquejats
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
 Sitemap: https://www.tennistaulacatalunya.com/sitemap-index.xml
